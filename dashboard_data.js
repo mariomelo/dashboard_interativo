@@ -4,7 +4,7 @@ dashboard_data = [
     type: 'info',
     url: 'resposta2.html',
     title: 'Pesquisa rapida',
-    time: '5000'
+    time: '1300'
   },
   {
     size: 6,
@@ -26,7 +26,7 @@ dashboard_data = [
     type: 'warning',
     url: 'resposta2.html',
     title: 'asdasd',
-    time: '2000'
+    time: '2400'
   },
 
   {
@@ -34,7 +34,7 @@ dashboard_data = [
     type: 'danger',
     url: 'resposta2.html',
     title: 'asdasdasd',
-    time: '2000'
+    time: '3000'
   }
 
 

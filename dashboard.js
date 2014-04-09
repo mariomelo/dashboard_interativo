@@ -31,7 +31,9 @@ function carregaWidget(){
       success: function(data) {
         painelAtual.children().fadeOut( parseInt(painelAtual.attr("time")), function(){
           console.log(data.responseText);
+          painelAtual.hide();
           painelAtual.append( data );
+          painelAtual.slideDown();
         });
       },
       error: function(erro){
