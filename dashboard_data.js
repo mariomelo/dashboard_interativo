@@ -2,20 +2,39 @@ dashboard_data = [
   {
     size: 6,
     type: 'info',
-    url: 'http://google.com',
-    title: 'Pesquisa rapida'
+    url: 'resposta2.html',
+    title: 'Pesquisa rapida',
+    time: '5000'
   },
   {
     size: 6,
     type: 'success',
-    url: 'http://factivity.herokuapp.com',
-    title: 'Lancamento de Horas'
+    url: 'resposta2.html',
+    title: 'Lancamento de Horas',
+    time: '600'
   },
   {
     size: 12,
     type: 'primary',
-    url: 'http://www.sotreq.com.br',
-    title: 'Meu cliente favorito'
+    url: 'resposta3.html',
+    title: 'Meu cliente favorito',
+    time: '2000'
+  },
+
+  {
+    size: 6,
+    type: 'warning',
+    url: 'resposta2.html',
+    title: 'asdasd',
+    time: '2000'
+  },
+
+  {
+    size: 6,
+    type: 'danger',
+    url: 'resposta2.html',
+    title: 'asdasdasd',
+    time: '2000'
   }
 
 
